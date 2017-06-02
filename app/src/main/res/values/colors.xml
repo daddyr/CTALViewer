@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="trainGreen">#007700</color>
+    <color name="trainBlue">#5555ff</color>
+    <color name="trainRed">#ff0000</color>
+    <color name="trainBrown">#895C53</color>
+    <color name="trainOrange">#EB984E</color>
+    <color name="trainPurple">#7D3C98</color>
+    <color name="trainPink">#FBB3A4</color>
+    <color name="trainYellow">#ffff00</color>
+</resources>

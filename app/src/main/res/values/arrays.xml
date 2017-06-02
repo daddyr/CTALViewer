@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_location_options">
+        <item>@string/pref_location_opwest_label</item>
+        <item>@string/pref_location_opeast_label</item>
+        <item>@string/pref_location_clwest_label</item>
+        <item>@string/pref_location_cleast_label</item>
+
+    </array>
+
+    <array name="pref_location_values">
+        <item>@string/pref_location_opwest_value</item>
+        <item>@string/pref_location_opeast_value</item>
+        <item>@string/pref_location_clwest_value</item>
+        <item>@string/pref_location_cleast_value</item>
+    </array>
+</resources>

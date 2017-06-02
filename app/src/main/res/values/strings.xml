@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CTA L Viewer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="pref_location_label">Location</string>
+
+    <string name="pref_location_key">location</string>
+
+    <string name="pref_location_opwest_label">Oak Park towards Harlem</string>
+    <string name="pref_location_opeast_label">Oak Park towards 63rd</string>
+    <string name="pref_location_clwest_label">Clark/Lake Outer Loop</string>
+    <string name="pref_location_cleast_label">Clark/Lake Inner Loop</string>
+    <string name="pref_location_nearest_label">Find Nearby Stop</string>
+
+    <string name="pref_location_opwest_value">30264</string>
+    <string name="pref_location_opeast_value">30263</string>
+    <string name="pref_location_clwest_value">30075</string>
+    <string name="pref_location_cleast_value">30074</string>
+    <string name="pref_location_nearest_value">nearest</string>
+
+    <string name="label_minutes">min</string>
+</resources>
